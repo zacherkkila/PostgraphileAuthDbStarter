@@ -5,4 +5,4 @@ Essentially just runs the scripts here https://www.graphile.org/postgraphile/pos
 
 Minimally tested, still needs polishing as far as roles and privileges go, use at your own risk
 
-To run: ./run_script.sh <database_name> <schema_name> <owner_name>
+To run: `./run_script.sh <database_name> <schema_name> <owner_name>`

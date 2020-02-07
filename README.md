@@ -1,4 +1,4 @@
-# PostgraphileAuthStarter
+# PostgraphileAuthDbStarter
 Creates a new schema for a postgraphile app with authentication/authorization
 
 Essentially just runs the scripts here https://www.graphile.org/postgraphile/postgresql-schema-design/#authentication-and-authorization
